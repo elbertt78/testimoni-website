@@ -1,4 +1,4 @@
-  // ---------- Particle network background ----------
+// ---------- Particle network background ----------
   (function(){
     const canvas = document.getElementById('particle-bg');
     const ctx = canvas.getContext('2d');
